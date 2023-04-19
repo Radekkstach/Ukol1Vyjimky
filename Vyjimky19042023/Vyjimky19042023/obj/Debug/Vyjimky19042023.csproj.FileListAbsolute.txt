@@ -1,0 +1,10 @@
+G:\PROgramovani\Vyjimky19042023\Vyjimky19042023\bin\Debug\Vyjimky19042023.exe.config
+G:\PROgramovani\Vyjimky19042023\Vyjimky19042023\bin\Debug\Vyjimky19042023.exe
+G:\PROgramovani\Vyjimky19042023\Vyjimky19042023\bin\Debug\Vyjimky19042023.pdb
+G:\PROgramovani\Vyjimky19042023\Vyjimky19042023\obj\Debug\Vyjimky19042023.csprojAssemblyReference.cache
+G:\PROgramovani\Vyjimky19042023\Vyjimky19042023\obj\Debug\Vyjimky19042023.Form1.resources
+G:\PROgramovani\Vyjimky19042023\Vyjimky19042023\obj\Debug\Vyjimky19042023.Properties.Resources.resources
+G:\PROgramovani\Vyjimky19042023\Vyjimky19042023\obj\Debug\Vyjimky19042023.csproj.GenerateResource.cache
+G:\PROgramovani\Vyjimky19042023\Vyjimky19042023\obj\Debug\Vyjimky19042023.csproj.CoreCompileInputs.cache
+G:\PROgramovani\Vyjimky19042023\Vyjimky19042023\obj\Debug\Vyjimky19042023.exe
+G:\PROgramovani\Vyjimky19042023\Vyjimky19042023\obj\Debug\Vyjimky19042023.pdb
